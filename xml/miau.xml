@@ -2,7 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="miau.xsl"?>
 <academia>
 	<curso id="1">
-		<categoria>Otros</categoria>
+		<categoria>Social</categoria>
 		<titulo>Patateo</titulo>
 		<imagen>patata.jpg</imagen>
 		<precio>1€</precio>
@@ -16,92 +16,101 @@
 			<p>Más vale patatas en paz, que tajadas en guerra.</p>
 			<p>Mi corazón palpita como una patata frita.</p>
 			<p>No plantes pepinos para esperar patatas.</p>
-			<p>La patata no se puede poseer, la patata es un fruto de la 	madre naturaleza.</p>
+			<p>La patata no se puede poseer, la patata es un fruto de la madre naturaleza.</p>
 			<p>Por la mañana, patatas; por la tarde patatas y patatolas y por la noche, ¡patatas solas!</p>
 		</descripcion>
-		<video></video>
-		<audio></audio>
 	</curso>
 	<curso id="2">
 		<categoria>Jardinería</categoria>
 		<titulo>Cuidado de hortensias</titulo>
 		<imagen>hortensias.jpg</imagen>
 		<precio>1€</precio>
-		<descripcion></descripcion>
-		<video></video>
-		<audio></audio>
+		<descripcion>
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ligula nunc, fringilla sed elit id, semper cursus libero. Sed hendrerit dictum commodo. Proin sed eros condimentum, sodales elit vel, iaculis dui. Etiam laoreet lorem mattis blandit mattis. Nullam sed sem mauris. Nunc sed hendrerit nulla, id suscipit sapien. Aliquam vitae semper tellus. Fusce placerat diam quam.</p>
+
+			<p>Interdum et malesuada fames ac ante ipsum primis in faucibus. Cras eget odio in erat interdum placerat. Duis enim nulla, consequat eleifend condimentum et, suscipit eget lacus. Sed lectus magna, consectetur vitae eros quis, convallis auctor metus. In rutrum sapien tempus lectus aliquet, quis cursus elit tincidunt. Morbi ac cursus mauris. Fusce eu auctor ex. Maecenas tempus neque lectus, semper finibus mauris consequat a.</p></descripcion>
 	</curso>
 	<curso id="3">
 		<categoria>Pelea</categoria>
 		<titulo>Lanzamiento de libros</titulo>
 		<imagen>libros_cara.jpg</imagen>
 		<precio>1€</precio>
-		<descripcion></descripcion>
-		<video></video>
-		<audio></audio>
+		<descripcion>
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ligula nunc, fringilla sed elit id, semper cursus libero. Sed hendrerit dictum commodo. Proin sed eros condimentum, sodales elit vel, iaculis dui. Etiam laoreet lorem mattis blandit mattis. Nullam sed sem mauris. Nunc sed hendrerit nulla, id suscipit sapien. Aliquam vitae semper tellus. Fusce placerat diam quam.</p>
+
+			<p>Interdum et malesuada fames ac ante ipsum primis in faucibus. Cras eget odio in erat interdum placerat. Duis enim nulla, consequat eleifend condimentum et, suscipit eget lacus. Sed lectus magna, consectetur vitae eros quis, convallis auctor metus. In rutrum sapien tempus lectus aliquet, quis cursus elit tincidunt. Morbi ac cursus mauris. Fusce eu auctor ex. Maecenas tempus neque lectus, semper finibus mauris consequat a.</p></descripcion>
 	</curso>
 	<curso id="4">
 		<categoria>Informática</categoria>
 		<titulo>Clickeo</titulo>
 		<imagen>clicker.jpg</imagen>
 		<precio>1€</precio>
-		<descripcion></descripcion>
-		<video></video>
-		<audio></audio>
+		<descripcion>
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ligula nunc, fringilla sed elit id, semper cursus libero. Sed hendrerit dictum commodo. Proin sed eros condimentum, sodales elit vel, iaculis dui. Etiam laoreet lorem mattis blandit mattis. Nullam sed sem mauris. Nunc sed hendrerit nulla, id suscipit sapien. Aliquam vitae semper tellus. Fusce placerat diam quam.</p>
+
+			<p>Interdum et malesuada fames ac ante ipsum primis in faucibus. Cras eget odio in erat interdum placerat. Duis enim nulla, consequat eleifend condimentum et, suscipit eget lacus. Sed lectus magna, consectetur vitae eros quis, convallis auctor metus. In rutrum sapien tempus lectus aliquet, quis cursus elit tincidunt. Morbi ac cursus mauris. Fusce eu auctor ex. Maecenas tempus neque lectus, semper finibus mauris consequat a.</p></descripcion>
 	</curso>
 	<curso id="5">
-		<categoria></categoria>
+		<categoria>Pelea</categoria>
 		<titulo>Esquiva de muebles</titulo>
 		<imagen>muebles.jpg</imagen>
 		<precio>1€</precio>
-		<descripcion></descripcion>
-		<video></video>
-		<audio></audio>
+		<descripcion>
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ligula nunc, fringilla sed elit id, semper cursus libero. Sed hendrerit dictum commodo. Proin sed eros condimentum, sodales elit vel, iaculis dui. Etiam laoreet lorem mattis blandit mattis. Nullam sed sem mauris. Nunc sed hendrerit nulla, id suscipit sapien. Aliquam vitae semper tellus. Fusce placerat diam quam.</p>
+
+			<p>Interdum et malesuada fames ac ante ipsum primis in faucibus. Cras eget odio in erat interdum placerat. Duis enim nulla, consequat eleifend condimentum et, suscipit eget lacus. Sed lectus magna, consectetur vitae eros quis, convallis auctor metus. In rutrum sapien tempus lectus aliquet, quis cursus elit tincidunt. Morbi ac cursus mauris. Fusce eu auctor ex. Maecenas tempus neque lectus, semper finibus mauris consequat a.</p></descripcion>
 	</curso>
 	<curso id="6">
-		<categoria></categoria>
+		<categoria>Social</categoria>
 		<titulo>Sopas de letras</titulo>
 		<imagen>sopa.png</imagen>
 		<precio>1€</precio>
-		<descripcion></descripcion>
-		<video></video>
-		<audio></audio>
+		<descripcion>
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ligula nunc, fringilla sed elit id, semper cursus libero. Sed hendrerit dictum commodo. Proin sed eros condimentum, sodales elit vel, iaculis dui. Etiam laoreet lorem mattis blandit mattis. Nullam sed sem mauris. Nunc sed hendrerit nulla, id suscipit sapien. Aliquam vitae semper tellus. Fusce placerat diam quam.</p>
+
+			<p>Interdum et malesuada fames ac ante ipsum primis in faucibus. Cras eget odio in erat interdum placerat. Duis enim nulla, consequat eleifend condimentum et, suscipit eget lacus. Sed lectus magna, consectetur vitae eros quis, convallis auctor metus. In rutrum sapien tempus lectus aliquet, quis cursus elit tincidunt. Morbi ac cursus mauris. Fusce eu auctor ex. Maecenas tempus neque lectus, semper finibus mauris consequat a.</p></descripcion>
 	</curso>
 	<curso id="7">
-		<categoria></categoria>
+		<categoria>Pelea</categoria>
 		<titulo>Salpicadura</titulo>
 		<imagen>magikarp.png</imagen>
 		<precio>1€</precio>
-		<descripcion></descripcion>
-		<video></video>
-		<audio></audio>
+		<descripcion>
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ligula nunc, fringilla sed elit id, semper cursus libero. Sed hendrerit dictum commodo. Proin sed eros condimentum, sodales elit vel, iaculis dui. Etiam laoreet lorem mattis blandit mattis. Nullam sed sem mauris. Nunc sed hendrerit nulla, id suscipit sapien. Aliquam vitae semper tellus. Fusce placerat diam quam.</p>
+
+			<p>Interdum et malesuada fames ac ante ipsum primis in faucibus. Cras eget odio in erat interdum placerat. Duis enim nulla, consequat eleifend condimentum et, suscipit eget lacus. Sed lectus magna, consectetur vitae eros quis, convallis auctor metus. In rutrum sapien tempus lectus aliquet, quis cursus elit tincidunt. Morbi ac cursus mauris. Fusce eu auctor ex. Maecenas tempus neque lectus, semper finibus mauris consequat a.</p></descripcion>
 	</curso>
 	<curso id="8">
-		<categoria></categoria>
+		<categoria>Social</categoria>
 		<titulo>Divismo</titulo>
 		<imagen>divismo.jpg</imagen>
 		<precio>1€</precio>
-		<descripcion></descripcion>
-		<video></video>
-		<audio></audio>
+		<descripcion>
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ligula nunc, fringilla sed elit id, semper cursus libero. Sed hendrerit dictum commodo. Proin sed eros condimentum, sodales elit vel, iaculis dui. Etiam laoreet lorem mattis blandit mattis. Nullam sed sem mauris. Nunc sed hendrerit nulla, id suscipit sapien. Aliquam vitae semper tellus. Fusce placerat diam quam.</p>
+
+			<p>Interdum et malesuada fames ac ante ipsum primis in faucibus. Cras eget odio in erat interdum placerat. Duis enim nulla, consequat eleifend condimentum et, suscipit eget lacus. Sed lectus magna, consectetur vitae eros quis, convallis auctor metus. In rutrum sapien tempus lectus aliquet, quis cursus elit tincidunt. Morbi ac cursus mauris. Fusce eu auctor ex. Maecenas tempus neque lectus, semper finibus mauris consequat a.</p></descripcion>
 	</curso>
 	<curso id="9">
-		<categoria></categoria>
+		<categoria>Social</categoria>
 		<titulo>Tirarse de bomba</titulo>
 		<imagen>bomba.jpg</imagen>
 		<precio>1€</precio>
-		<descripcion></descripcion>
-		<video></video>
-		<audio></audio>
+		<descripcion>
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ligula nunc, fringilla sed elit id, semper cursus libero. Sed hendrerit dictum commodo. Proin sed eros condimentum, sodales elit vel, iaculis dui. Etiam laoreet lorem mattis blandit mattis. Nullam sed sem mauris. Nunc sed hendrerit nulla, id suscipit sapien. Aliquam vitae semper tellus. Fusce placerat diam quam.</p>
+
+			<p>Interdum et malesuada fames ac ante ipsum primis in faucibus. Cras eget odio in erat interdum placerat. Duis enim nulla, consequat eleifend condimentum et, suscipit eget lacus. Sed lectus magna, consectetur vitae eros quis, convallis auctor metus. In rutrum sapien tempus lectus aliquet, quis cursus elit tincidunt. Morbi ac cursus mauris. Fusce eu auctor ex. Maecenas tempus neque lectus, semper finibus mauris consequat a.</p></descripcion>
+		<video>https://www.youtube.com/embed/nyvb92X72O8</video>
 	</curso>
 	<curso id="10">
-		<categoria></categoria>
-		<titulo>O.o</titulo>
-		<imagen></imagen>
+		<categoria>Informática</categoria>
+		<titulo>Loreipsumear</titulo>
+		<imagen>lore.jpg</imagen>
 		<precio>1€</precio>
-		<descripcion></descripcion>
-		<video></video>
-		<audio></audio>
+		<descripcion> 
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ligula nunc, fringilla sed elit id, semper cursus libero. Sed hendrerit dictum commodo. Proin sed eros condimentum, sodales elit vel, iaculis dui. Etiam laoreet lorem mattis blandit mattis. Nullam sed sem mauris. Nunc sed hendrerit nulla, id suscipit sapien. Aliquam vitae semper tellus. Fusce placerat diam quam.</p>
+
+			<p>Interdum et malesuada fames ac ante ipsum primis in faucibus. Cras eget odio in erat interdum placerat. Duis enim nulla, consequat eleifend condimentum et, suscipit eget lacus. Sed lectus magna, consectetur vitae eros quis, convallis auctor metus. In rutrum sapien tempus lectus aliquet, quis cursus elit tincidunt. Morbi ac cursus mauris. Fusce eu auctor ex. Maecenas tempus neque lectus, semper finibus mauris consequat a.</p>
+		</descripcion>
 	</curso>
 
 </academia>

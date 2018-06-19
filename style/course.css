@@ -1,7 +1,9 @@
+body {
+	margin-bottom: 100vh;
+}
 .curso {
 	margin: 1em;
 	margin-top: 200vh;
-	margin-bottom: 100vh;
 	border: 1px rgba(0, 64, 14, 0.3) solid;
 	box-shadow: 5px 5px 10px 0 rgba(0, 64, 14, 0.4), -5px 5px 10px 0 rgba(0, 64, 14, 0.3);
 	max-width: 1500px;
@@ -9,7 +11,15 @@
 	grid-template-columns: auto auto;
 	grid-gap: 2em;
 }
-img {
+.curso a {
+	display: inline-block;
+	margin-top: 2em;
+	padding: 0.5em;
+	background-color: #2B803E;
+	color: #fff;
+	border: 1px #2B803E solid;
+}
+img, iframe {
 	width: 50vw;
 	height: 30vw;
 }

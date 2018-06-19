@@ -10,9 +10,8 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 		<link rel="stylesheet" type="text/css" href="../style/course.css"></link>
 	</head>
 	<body>
-		<div class="content" id="0">
+		<div class="content" id="patata">
 			<xsl:for-each select="academia/curso">
-		<!--xsl:sort select="categoria"/-->
 			<a>
 				<xsl:attribute name="href">
 						#<xsl:value-of select="@id" />
@@ -29,19 +28,30 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 					<xsl:value-of select="precio"/>
 				</div>
 			</div>
-		</a>
+			</a>
 		</xsl:for-each>
 		</div>
+
+
 		<xsl:for-each select="academia/curso">
 			<div class="curso">
 				<xsl:attribute name="id">
 					<xsl:value-of select="@id" />
 				</xsl:attribute>
-				<img>
-					<xsl:attribute name="src">
-						../images/<xsl:value-of select="imagen" />
-					</xsl:attribute>
-				</img>
+				<xsl:if test="video">
+					<iframe>
+						<xsl:attribute name="src">
+							<xsl:value-of select="video" />
+						</xsl:attribute>
+					</iframe>
+				</xsl:if>
+				<xsl:if test="not(video)">
+					<img>
+						<xsl:attribute name="src">
+							../images/<xsl:value-of select="imagen" />
+						</xsl:attribute>
+					</img>
+				</xsl:if>
 				<div>
 					<h2>Curso de <xsl:value-of select="titulo"/></h2>
 					<xsl:for-each select="descripcion/p">
@@ -49,6 +59,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 					</xsl:for-each>
 				</div>
 			</div>
+			<a href="#patata">Volver a todos los cursos</a>
 		</xsl:for-each>
 	</body>
 	</html>
