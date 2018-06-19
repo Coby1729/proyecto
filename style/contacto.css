@@ -1,0 +1,18 @@
+form {
+	width: 18em;
+	padding: 0.5em;
+	background-color: #2B803E;
+	text-align: center;
+}
+form * {
+	display: block;
+	margin: 0.5em;
+	width: 20em;
+}
+.button {
+	display: inline;
+}
+textarea {
+	height: 25em;
+	resize: none;
+}

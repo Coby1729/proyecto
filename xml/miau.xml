@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="miau.xsl"?>
+<academia>
+	<curso id="1">
+		<categoria>Otros</categoria>
+		<titulo>Patateo</titulo>
+		<imagen>patata.jpg</imagen>
+		<precio>1€</precio>
+		<descripcion>
+			<p>Comer buena patata engorda pero no mata</p>
+			<p>Cuando el hambre da calor, la patata es un refresco.</p>
+			<p>Cuando empiece a marcear, debes la patata sembrar.</p>
+			<p>Donde no hay mata, no hay patata.</p>
+			<p>Las patatas cocidas alargan la vida.</p>
+			<p>Los nobles son como las patatas: todo lo bueno lo tienen bajo tierra.</p>
+			<p>Más vale patatas en paz, que tajadas en guerra.</p>
+			<p>Mi corazón palpita como una patata frita.</p>
+			<p>No plantes pepinos para esperar patatas.</p>
+			<p>La patata no se puede poseer, la patata es un fruto de la 	madre naturaleza.</p>
+			<p>Por la mañana, patatas; por la tarde patatas y patatolas y por la noche, ¡patatas solas!</p>
+		</descripcion>
+		<video></video>
+		<audio></audio>
+	</curso>
+	<curso id="2">
+		<categoria>Jardinería</categoria>
+		<titulo>Cuidado de hortensias</titulo>
+		<imagen>hortensias.jpg</imagen>
+		<precio>1€</precio>
+		<descripcion></descripcion>
+		<video></video>
+		<audio></audio>
+	</curso>
+	<curso id="3">
+		<categoria>Pelea</categoria>
+		<titulo>Lanzamiento de libros</titulo>
+		<imagen>libros_cara.jpg</imagen>
+		<precio>1€</precio>
+		<descripcion></descripcion>
+		<video></video>
+		<audio></audio>
+	</curso>
+	<curso id="4">
+		<categoria>Informática</categoria>
+		<titulo>Clickeo</titulo>
+		<imagen>clicker.jpg</imagen>
+		<precio>1€</precio>
+		<descripcion></descripcion>
+		<video></video>
+		<audio></audio>
+	</curso>
+	<curso id="5">
+		<categoria></categoria>
+		<titulo>Esquiva de muebles</titulo>
+		<imagen>muebles.jpg</imagen>
+		<precio>1€</precio>
+		<descripcion></descripcion>
+		<video></video>
+		<audio></audio>
+	</curso>
+	<curso id="6">
+		<categoria></categoria>
+		<titulo>Sopas de letras</titulo>
+		<imagen>sopa.png</imagen>
+		<precio>1€</precio>
+		<descripcion></descripcion>
+		<video></video>
+		<audio></audio>
+	</curso>
+	<curso id="7">
+		<categoria></categoria>
+		<titulo>Salpicadura</titulo>
+		<imagen>magikarp.png</imagen>
+		<precio>1€</precio>
+		<descripcion></descripcion>
+		<video></video>
+		<audio></audio>
+	</curso>
+	<curso id="8">
+		<categoria></categoria>
+		<titulo>Divismo</titulo>
+		<imagen>divismo.jpg</imagen>
+		<precio>1€</precio>
+		<descripcion></descripcion>
+		<video></video>
+		<audio></audio>
+	</curso>
+	<curso id="9">
+		<categoria></categoria>
+		<titulo>Tirarse de bomba</titulo>
+		<imagen>bomba.jpg</imagen>
+		<precio>1€</precio>
+		<descripcion></descripcion>
+		<video></video>
+		<audio></audio>
+	</curso>
+	<curso id="10">
+		<categoria></categoria>
+		<titulo>O.o</titulo>
+		<imagen></imagen>
+		<precio>1€</precio>
+		<descripcion></descripcion>
+		<video></video>
+		<audio></audio>
+	</curso>
+
+</academia>

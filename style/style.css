@@ -1,0 +1,146 @@
+* {
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+	text-align: center;
+}
+
+
+body{
+	position: relative;
+	margin: 0;
+	height: 100%;
+	min-height: 100vh;
+	min-width: 300px;
+}
+
+
+header, footer{
+	padding: 0.5em;
+	background-color: #19291c;
+	color: #fff;
+}
+
+
+nav {
+	padding: 0.5em;
+}
+a {
+	text-decoration: none;
+}
+
+
+.main-img{
+	height: 30vw;
+	overflow: hidden;
+}
+.main-img img {
+	margin-top: -10vw;
+	width: 100%;
+}
+
+
+iframe {
+	width: 100%;
+	height: 49em;
+	border: none;
+	margin-top: 1em;
+}
+
+
+
+footer {
+	width: 100%;
+	display: grid;
+	grid-template-columns: auto auto auto;
+}
+footer div{
+	float: left;
+}
+footer a {
+	display: block;
+	color: #fff;
+}
+footer img{
+	width: 2em;
+	position: relative;
+	top: 0.5em;
+	border-radius: 30%;
+	float: none;
+	margin: 0;
+}
+
+/*colores:
+#19291c
+#00400E
+#106022
+#2B803E
+#50A162
+#81C18F
+#b3e6be
+*/
+
+/* menú desplegable */
+.dropdown {
+	display: inline-block;
+	position: relative; /*pa que funcione la absoluta en el content*/
+}
+.drop-from { /*solo style*/
+	display: inline-block;
+	margin-left: 1em;
+	padding: 0.5em;
+	background-color: #2B803E;
+	color: #fff;
+	border: 1px #2B803E solid;
+	border-radius: 2px;
+}
+.drop-content {
+	display: none; /*escondido hasta que toque*/
+	position: absolute;
+	min-width: 10em;
+	left: 0em;
+	top: 2em;
+	text-align: left;
+	background-color: #fff;/*#81C18F;*/
+	box-shadow: 5px 5px 10px 0 rgba(0, 0, 0, 0.2), -5px 5px 10px 0 rgba(0, 0, 0, 0.2);
+	z-index: 1000;
+}
+.drop-content a {
+	display: block;
+	padding: 0 1em;
+	color: #2B803E;
+}
+.drop-content a:hover {
+	background-color: #b3e6be;
+	color: #004040;
+}
+.dropdown:hover .drop-content {
+	display: block;
+}
+.dropdown:hover .drop-from {
+	background-color: #b3e6be;
+	color: #004040;
+}
+
+
+
+
+
+
+/* width */
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    background: #b3e6be;
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #50955f; 
+}
+::-webkit-scrollbar-thumb:hover {
+    background: #3d7148; 
+}

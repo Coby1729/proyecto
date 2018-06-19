@@ -1,0 +1,9 @@
+iframe {
+	float: left;
+	border: none;
+}
+div {
+	float: left;
+	max-width: 400px;
+	padding: 20px;
+}
